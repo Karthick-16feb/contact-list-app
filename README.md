@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # contact-list-app-demo
 simple contact list application with react framework as front end and node js server running in backend. Containerizing the application with Docker.
 =======
@@ -14,6 +13,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+If you have a node server don't forget to run that server prior to the run the application's frontend.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
