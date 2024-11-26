@@ -1,0 +1,22 @@
+[
+    { "id": 1, "name": "John Doe", "email": "john.doe@gmail.com", "phone": "123-456-7890" },
+    { "id": 2, "name": "Jane Smith", "email": "jane.smith@yahoo.com", "phone": "987-654-3210" },
+    { "id": 3, "name": "Alice Johnson", "email": "alice.johnson@hotmail.com", "phone": "456-789-1234" },
+    { "id": 4, "name": "Ravi Kumar", "email": "ravi.kumar@gmail.com", "phone": "987-123-4567" },
+    { "id": 5, "name": "Sita Rani", "email": "sita.rani@yahoo.com", "phone": "765-432-1098" },
+    { "id": 6, "name": "Krishna Rao", "email": "krishna.rao@hotmail.com", "phone": "654-321-9876" },
+    { "id": 7, "name": "Priya Lakshmi", "email": "priya.lakshmi@gmail.com", "phone": "123-789-4560" },
+    { "id": 8, "name": "Karthik Nair", "email": "karthik.nair@yahoo.com", "phone": "321-654-9871" },
+    { "id": 9, "name": "Anjali Iyer", "email": "anjali.iyer@gmail.com", "phone": "741-852-9630" },
+    { "id": 10, "name": "Vikram Pillai", "email": "vikram.pillai@hotmail.com", "phone": "963-852-7410" },
+    { "id": 11, "name": "Manju Devi", "email": "manju.devi@gmail.com", "phone": "852-963-7410" },
+    { "id": 12, "name": "Ramesh Babu", "email": "ramesh.babu@yahoo.com", "phone": "456-123-7894" },
+    { "id": 13, "name": "Divya Menon", "email": "divya.menon@gmail.com", "phone": "741-963-8520" },
+    { "id": 14, "name": "Suresh Sundar", "email": "suresh.sundar@hotmail.com", "phone": "321-654-9870" },
+    { "id": 15, "name": "Latha Krishnan", "email": "latha.krishnan@yahoo.com", "phone": "987-654-3214" },
+    { "id": 16, "name": "Ajay Prakash", "email": "ajay.prakash@gmail.com", "phone": "654-321-9871" },
+    { "id": 17, "name": "Vani Rao", "email": "vani.rao@hotmail.com", "phone": "741-852-9631" },
+    { "id": 18, "name": "Nisha Reddy", "email": "nisha.reddy@yahoo.com", "phone": "963-741-8522" },
+    { "id": 19, "name": "Srinivasan Pillai", "email": "srinivasan.pillai@gmail.com", "phone": "852-963-7411" },
+    { "id": 20, "name": "Priya Krishnan", "email": "priya.krishnan@hotmail.com", "phone": "321-654-9873" }
+]
